@@ -1,0 +1,11 @@
+#contact-info-table {
+    max-width: 75%;
+    margin: 1em auto;
+}
+.buttons {
+    width: 100%;
+    text-align: center;
+}
+#submit-button {
+    margin: 1em auto;
+}

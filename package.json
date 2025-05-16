@@ -1,0 +1,23 @@
+{
+  "name": "week10-dom",
+  "version": "1.0.0",
+  "description": "\"# PT-FE-Week10DOM\"",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cburel/PT-FE-Week10DOM.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cburel/PT-FE-Week10DOM/issues"
+  },
+  "homepage": "https://github.com/cburel/PT-FE-Week10DOM#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.6"
+  }
+}
